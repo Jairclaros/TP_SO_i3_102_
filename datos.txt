@@ -1,1 +1,11 @@
+Nombre: Luciano Morro
+IP: 192.168.0.114
+Hora: Thu Nov  6 12:42:22     2025
 
+Nombre y apellido: Leandro Cespedes
+IP: 192.164.0.112
+Hora: 12:48
+
+Nombre: Jair Claros Diaz
+IP: 181.47.229.182 
+Hora: 12:54
