@@ -1,3 +1,22 @@
+d-Después de que BETA realiza el merge con la rama main, la rama de BETA y la rama de GAMMA se actualizaron automáticamente al usar git checkout <rama>, git pull origin master
+
+e-Los errores que hubo es que, dependiendo de como hacias el merge podias terminar combinando todas las ramas en una. La forma correcta que usamos fue:
+git checkout main
+Hacer un merge forzado (no fast-forward)
+git merge --no-ff morro -m "Merge de la rama morro a master"
+
+Subís los cambios
+git push origin main
+hice eso
+
+f-git branch -a
+git checkout apellido de beta
+git pull origin apellido de beta
+Notepad beta.txt
+git add beta.txt
+git commit -m "Agregue nombre, hora y la informacion de ifconfig a beta.txt"
+git push origin apellido de beta
+
 g-Los comandos que uso ALFA para poder hacer lo pedido en el punto 8 son:
 git fetch origin
 git branch -a 
