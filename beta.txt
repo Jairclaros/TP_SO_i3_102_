@@ -1,0 +1,86 @@
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3769:ebea:f838:cf27%2
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:40e:a6f:c35f:f60d:fb9c:362a
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:40e:a6f:f9b2:aa5e:b96f:81a4
+   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:dbde:b09b:1b63:1cf
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:40e:a6f:b4d2:8cd8:b48c:1d66
+   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:b4d2:8cd8:b48c:1d66
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::b397:c075:b94f:c64%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.46
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2cb:51ff:fe62:4771%7
+                                       192.168.0.1
+
+GAMMA:
+Nombre: Luciano Morro
+Hora: Thu Nov  6 13:17:41     2025 
+Config:  Configuración IP de Windows
+
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::c275:e05:df2a:af2d%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.114
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+
+Nombre y apellido: Leandro Cespedes(ALFA)
+Hora: 13:49:30 
+
+Adaptador de Ethernet Ethernet 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de Ethernet Ethernet 3:
+
+   Sufijo DNS específico para la conexión. . :
+   Vínculo: dirección IPv6 local. . . : fe80::7c82:e88d:be06:6870%3
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : fibertel.com.ar
+   Vínculo: dirección IPv6 local. . . : fe80::a104:d773:1d01:3def%14
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.152
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 192.168.0.1
