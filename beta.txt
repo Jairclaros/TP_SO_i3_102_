@@ -1,0 +1,25 @@
+
+Configuraci¢n IP de Windows
+
+
+Adaptador de Ethernet Ethernet 2:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : 
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::3769:ebea:f838:cf27%2
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.56.1
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : 
+
+Adaptador de Ethernet Ethernet:
+
+   Sufijo DNS espec¡fico para la conexi¢n. . : home
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:40e:a6f:c35f:f60d:fb9c:362a
+   Direcci¢n IPv6 . . . . . . . . . . : 2800:810:40e:a6f:f9b2:aa5e:b96f:81a4
+   Direcci¢n IPv6 . . . . . . . . . . : fdaa:bbcc:ddee:0:dbde:b09b:1b63:1cf
+   Direcci¢n IPv6 temporal. . . . . . : 2800:810:40e:a6f:b4d2:8cd8:b48c:1d66
+   Direcci¢n IPv6 temporal. . . . . . : fdaa:bbcc:ddee:0:b4d2:8cd8:b48c:1d66
+   V¡nculo: direcci¢n IPv6 local. . . : fe80::b397:c075:b94f:c64%7
+   Direcci¢n IPv4. . . . . . . . . . . . . . : 192.168.0.46
+   M scara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::2cb:51ff:fe62:4771%7
+                                       192.168.0.1
